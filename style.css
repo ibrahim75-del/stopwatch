@@ -23,6 +23,12 @@ body{
     padding-bottom: 50px;
     border-radius: 10px;
 }
+.quote{
+    
+    color: #000000;
+    margin: 20px;
+    text-align: center;
+    }
 
 .timerDisplay{
     position: relative;
